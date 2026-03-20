@@ -1,0 +1,4 @@
+.env
+venv/
+sec-edgar-filings/
+__pycache__/

@@ -41,7 +41,7 @@ C'est la toute première fois de faire un projet RAG avec le framework llamaInde
 ## Ingestion des données
 
 <p align="center">
-  <img alt="Ingestion" src="./assets/ingestion.png" width="700px">
+  <img alt="Ingestion" src="./assets/ingestion.png" width="1000px">
 </p>
 
 Dans cette étape, il s'agit de préparer les données qui serviront de base de connaissance pour notre RAG dans notre cas il s'agit des rapports financiers 10-K des entreprise Microsoft , Apple et Tesla pour l'année 2025.
